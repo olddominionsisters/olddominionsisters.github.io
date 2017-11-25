@@ -3,7 +3,7 @@
 title: "Old Dominion Sisters"
 description: "Blog for Old Dominion Sisters Crafting and Baking."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: bio-photo.jpg # 400x250 px default teaser image used in image archive grid
+teaser: /images/bio-photo.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
