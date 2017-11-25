@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /crafts
+permalink: /crafts/
 title: "Latest Crafting Posts"
 ---
 
